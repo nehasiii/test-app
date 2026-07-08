@@ -21,7 +21,6 @@ An interactive command-line quiz game for learning JavaScript and Node.js fundam
 ```bash
 git clone <repository-url>
 cd test-app
-npm install
 ```
 
 ### Run the quiz
@@ -29,6 +28,8 @@ npm install
 ```bash
 npm start
 ```
+
+No additional dependencies are required.
 
 ## How It Works
 
